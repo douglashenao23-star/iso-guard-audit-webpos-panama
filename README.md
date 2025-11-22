@@ -13,8 +13,8 @@ Desplegada en **Cloudflare Pages** con **Cloudflare D1** como base de datos dist
 
 ## 🌐 URLs del Proyecto
 
-- **🚀 Producción**: https://isoguard-audit.pages.dev
-- **📦 Repositorio**: https://github.com/douglashenao23-star/iso-guard-audit
+- **🚀 Producción**: https://isoguard-audit-webpos-panama.pages.dev
+- **📦 Repositorio**: https://github.com/douglashenao23-star/iso-guard-audit-webpos-panama
 - **📊 Dashboard Cloudflare**: https://dash.cloudflare.com/
 - **📖 API Docs**: `/api/*`
 
